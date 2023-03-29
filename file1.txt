@@ -3,3 +3,4 @@ mytesting conflict
 added new line of code
 testing line in main
 adding new line for conflict
+adding git stash
